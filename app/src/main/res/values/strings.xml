@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TreasureApp</string>
+    <string name="write">Write Tag</string>
+    <string name="read">Read Tag</string>
+    <string name="tview1">TreasureApp lets you create a treasure hunt using NFC tags and your phone!</string>
+    <string name="tview2">Hold tag against your phone to read it</string>
+    <string name="writebtn">Write to a treasure tag</string>
+    <string name="readbtn">Read a treasure tag</string>
+    <string name="input">Enter the clue or riddle to write</string>
+    <string name="save">Save to tag</string>
+    <string name="errordetected">Error: No tag detected</string>
+    <string name="writesuccess">Info has been written to tag successfully</string>
+    <string name="writeerror">Error occurred while writing. Ensure phone is touching tag</string>
+    <string name="tagdetected">Tag has been detected: </string>
+</resources>
